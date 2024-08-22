@@ -1,13 +1,14 @@
-## Hello, I'm Selina Yeshanew 👋
+Hello, I'm Selina Yeshanew 👋
+🌍 Location: Addis Ababa, Ethiopia
+💻 Current Focus: Front-End Web Development
+🌱 Learning: Flutter
+👯 Open to Collaboration: On exciting projects
+📧 Reach Me: selinayeshanew21@gmail.com
 
-<!--
-**sel2127/sel2127** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Front End Web Development
-- 🌱 I’m currently learning Flutter
-- 👯 I’m looking to collaborate on Projects
-- 🤔 I’m looking for help with ...
-- 📫 How to reach me: selinayeshanew21@gmail.com
-
+About Me
+🎓 Education: BSc in Software Engineering from Addis Ababa Science and Technology University
+🛠 Skills: HTML, CSS, JavaScript, React.js, Node.js, Laravel, MySQL, Git, Tailwind Css 
+🚀 Projects:
+Religious Service Management System: Streamlined religious service administration with a comprehensive management platform.
+NFT Photo Auction: Developed a secure marketplace for minting and trading digital photos as NFTs.
+E-Commerce Website: Created a responsive and user-friendly interface for online shopping of products.
