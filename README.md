@@ -10,9 +10,9 @@ Hello, I'm Selina Yeshanew 👋
 
 📧 Reach Me: selinayeshanew21@gmail.com
 
-About Me:
+About Me:,
 
 🎓 Education: BSc in Software Engineering from Addis Ababa Science and Technology University
 
-🛠 Skills: HTML, CSS, JavaScript, React.js, Node.js, Laravel, MySQL, Git, Tailwind Css
+🛠 Skills: HTML, CSS, JavaScript, React.js, Node.js, Express.js, Laravel, MySQL, Git, Tailwind Css
  
