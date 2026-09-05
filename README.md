@@ -5,7 +5,9 @@ Hi there 👋, I'm Selina Yeshanew
 I'm a passionate and detail-oriented Software Developer who enjoys building efficient, scalable, and user-friendly web applications.
 
 🔭 I’m currently working on Web Application Development
+
 🌱 I’m currently learning Advanced Full-Stack Development and Modern Web Technologies
+
 👯 I’m looking to collaborate on Web Development and Open Source Projects
 💬 Ask me about React, Next.js, Node.js, NestJS, TypeScript, and Databases
 📫 How to reach me: selinayeshanew21@gmail.com
