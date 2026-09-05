@@ -1,4 +1,5 @@
 Hi there 👋, I'm Selina Yeshanew
+
 💻 Software Developer | Full-Stack Developer | MERN Stack
 
 I'm a passionate and detail-oriented Software Developer who enjoys building efficient, scalable, and user-friendly web applications.
@@ -14,40 +15,10 @@ I'm a passionate and detail-oriented Software Developer who enjoys building effi
 
 
 🚀 Languages and Tools
-🎨 Frontend Development
 
-<p> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/> </a> <a href="https://www.typescriptlang.org/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/> </a> <a href="https://react.dev/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45" alt="React"/> </a> <a href="https://nextjs.org/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="45" height="45" alt="Next.js"/> </a> <a href="https://vite.dev/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" width="45" height="45" alt="Vite"/> </a> <a href="https://redux.js.org/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="45" height="45" alt="Redux"/> </a> <a href="https://tailwindcss.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="Tailwind CSS"/> </a> <a href="https://sass-lang.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="45" height="45" alt="Sass"/> </a> </p>
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" alt="TypeScript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" alt="React"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" height="45" alt="Next.js"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" width="45" height="45" alt="Vite"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="45" height="45" alt="Redux"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="45" height="45" alt="Tailwind CSS"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="45" height="45" alt="Sass"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45" height="45" alt="Bootstrap"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="45" height="45" alt="Express.js"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" width="45" height="45" alt="NestJS"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" alt="Git"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" alt="Docker"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45" height="45" alt="Postman"/> </p>
 
-Technologies:
-HTML5 • CSS3 • JavaScript • TypeScript • React • Next.js • Vite • Redux • Redux Toolkit • Tailwind CSS • Sass • Responsive Design
-
-✨ UI & Animation
-
-<p> <a href="https://motion.dev/"> <img src="https://cdn.simpleicons.org/framer" width="45" height="45" alt="Framer Motion"/> </a> <a href="https://getbootstrap.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="45" height="45" alt="Bootstrap"/> </a> </p>
-
-Technologies:
-Framer Motion • Animations • Responsive UI • Component-Based Design • Modern UI/UX
-
-⚙️ Backend Development
-
-<p> <a href="https://nodejs.org/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js"/> </a> <a href="https://expressjs.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="45" height="45" alt="Express.js"/> </a> <a href="https://nestjs.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg" width="45" height="45" alt="NestJS"/> </a> </p>
-
-Technologies:
-Node.js • Express.js • NestJS • REST APIs • Authentication • API Integration • Server-Side Development
-
-🗄️ Databases
-
-<p> <a href="https://www.mysql.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/> </a> <a href="https://www.postgresql.org/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL"/> </a> <a href="https://www.mongodb.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB"/> </a> </p>
-
-Technologies:
-MySQL • PostgreSQL • MongoDB • TypeORM • Database Design
-
-🧰 Tools & Development
-
-<p> <a href="https://git-scm.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/> </a> <a href="https://github.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" alt="GitHub"/> </a> <a href="https://www.docker.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45" height="45" alt="Docker"/> </a> <a href="https://www.postman.com/"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="45" height="45" alt="Postman"/> </a> </p>
-
-Technologies:
-Git • GitHub • Docker • Postman • REST API • CI/CD • GitHub Actions
+HTML5 • CSS3 • JavaScript • TypeScript • React • Next.js • Vite • Redux • Redux Toolkit • Tailwind CSS • Sass • Bootstrap • Framer Motion • Node.js • Express.js • NestJS • REST API • MySQL • PostgreSQL • MongoDB • TypeORM • Git • GitHub • Docker • Postman • GitHub Actions • CI/CD • Responsive Design • UI/UX
 
 📊 GitHub Stats
 
