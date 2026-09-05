@@ -32,11 +32,18 @@ REST API • Swagger • OpenAPI • Postman • JWT • Axios • Webhooks • 
 
 cPanel • Plesk • LONOS • VPS • Linux • CI/CD • GitHub Actions • Docker
 
-📊 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sel2127&show_icons=true&hide_border=true" alt="Selina's GitHub Stats"/> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sel2127&show_icons=true&hide_border=true" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sel2127&layout=compact&hide_border=true" height="180" alt="Top Languages" />
+</p>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sel2127&layout=compact&hide_border=true" alt="Top Languages"/> </p>
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sel2127&hide_border=true" alt="GitHub Streak" />
+</p>
 
 🔥 GitHub Streak
 
