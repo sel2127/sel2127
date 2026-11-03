@@ -14,8 +14,6 @@ I'm a passionate and detail-oriented Software Developer who enjoys building effi
 
 📫 How to reach me: selinayeshanew21@gmail.com
 
-🌐 Portfolio: Visit My Portfolio
-
 💼 LinkedIn: Selina Yeshanew
 
 ⚡ Fun fact: I enjoy turning ideas into working software.
